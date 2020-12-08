@@ -2,10 +2,10 @@ reading-notes
 
 # Welcome to my First GitHub Webpage
 
-Where I will talk about having growth mindset :simple_smile:
+Where I will talk about having growth mindset!
 
 ## What is Growth Mindset?
-Growth Mindset is to be open to learn and try new things, even with the fear of failure.
+Growth Mindset is to be open to learn and try new things, even with the fear of failure. Try, fail, **Try again.**
 
 ### **Keeping in the Growth Mindset**
 - Think of the future
