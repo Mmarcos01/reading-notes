@@ -16,6 +16,9 @@ My name is Marie Marcos, former aircraft maintainer, current growth mindset util
 [Visit My GitHub](https://github.com/Mmarcos01?tab=repositories) or see what I learned about:
 
 [Markdown](learnmarkdown.md)
+
 [Text Editors](texteditor.md)
+
 [Terminal Usage](terminalusage.md)
+
 ![](junior-ferreira-7esRPTt38nI-unsplash.jpg)
