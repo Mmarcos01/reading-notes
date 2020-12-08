@@ -15,3 +15,4 @@ Growth Mindset is to be open to learn and try new things, even with the fear of 
 My name is Marie Marcos, former aircraft maintainer, current growth mindset utilizer learning to code.
 [Visit My GitHub](https://github.com/Mmarcos01?tab=repositories)
 
+![](https://unsplash.com/photos/L-CShKAuZsg)
