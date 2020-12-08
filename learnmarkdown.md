@@ -10,5 +10,5 @@ using ** before and after text | **Makes text bold**
 using * before and after text | *Makes text italicized*
 
 
-### Learn more about markdown syntax [here!](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+### [Learn more about Markdown syntax here!](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
