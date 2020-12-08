@@ -1,4 +1,7 @@
+reading-notes
+
 # Welcome to my First GitHub Webpage
+
 Where I will talk about having growth mindset :simple_smile:
 
 ## What is Growth Mindset?
