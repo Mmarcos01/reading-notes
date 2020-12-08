@@ -3,7 +3,7 @@
 ## This site was made in GitHub using the coding language Markdown
 Markdown is an easy way to make writing on the internet look good. With just a few extra characters you can stylize your text and add heirarchy to your page.
 
-Syntax | Effect
+**Syntax | Effect**
 ------ | ------
 using one # before a title | Creates a large header
 using ** before and after text | Makes text bold
