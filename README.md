@@ -1,7 +1,8 @@
-# reading-notes
-# Marie's Code 102 Reading Notes
+# Welcome to my First GitHub Webpage
+Where I will talk about having growth mindset :simple_smile:
 
-## Growth Mindset is to be open to learn and try new things, even with the fear of failure. ##
+## What is Growth Mindset?
+Growth Mindset is to be open to learn and try new things, even with the fear of failure.
 
 ### **Keeping in the Growth Mindset**
 - Think of the future
