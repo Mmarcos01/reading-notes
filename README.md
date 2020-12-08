@@ -1,4 +1,3 @@
-reading-notes
 
 # Welcome to my First GitHub Webpage
 
