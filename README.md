@@ -12,6 +12,6 @@ Growth Mindset is to be open to learn and try new things, even with the fear of 
 - Get some exercise
 - Ask for help
 
-### View my portfolio page:
+### View my GitHub portfolio page:
 My name is Marie Marcos, I'm exercising growth mindset to learn code.
 [Click Here](https://github.com/Mmarcos01?tab=repositories)
