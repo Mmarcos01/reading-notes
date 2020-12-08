@@ -9,5 +9,5 @@
 - Ask for help
 
 ### View my portfolio page:
-My name is Marie Marcos, tryin out this growth mindset thing to learn code.
+My name is Marie Marcos, I'm exercising growth mindset to learn code.
 [Click Here](https://github.com/Mmarcos01?tab=repositories)
