@@ -7,3 +7,7 @@
 - Think of the future
 - Get some exercise
 - Ask for help
+
+### View my portfolio page:
+My name is Marie Marcos, tryin out this growth mindset thing to learn code.
+[Click Here](https://github.com/Mmarcos01?tab=repositories)
