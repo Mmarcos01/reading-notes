@@ -5,5 +5,9 @@ Markdown is an easy way to make writing on the internet look good. With just a f
 
 Syntax | Effect
 ------ | ------
-test | test
+using one # before a title | Creates a large header
+using ** before and after text | Makes text bold
+using * before and after text | Makes text italicized
+
+Learn more about markdown syntax [here!](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
