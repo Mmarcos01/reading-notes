@@ -21,4 +21,7 @@ My name is Marie Marcos, former aircraft maintainer, current growth mindset util
 
 - [Terminal Usage](terminalusage.md)
 
+- [Revisions and the Cloud](revisions.md)
+
 ![](junior-ferreira-7esRPTt38nI-unsplash.jpg)
+###### photo by Junior Ferreira on Unsplash
