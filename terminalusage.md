@@ -15,8 +15,7 @@ Use command echo $SHELL to see which shell you are using, example: if using bash
 
 ### Paths
 
-- **path** -a means to get to a file or directory on the command line, 
- - 2 types absolute and relative
+- **path** -a means to get to a file or directory on the command line, 2 types absolute and relative
 	- absolute -specify a location in relation to the root directory, always begin with /
 	- relative -specify a location in relation to where we currently are in the system, will not begin with /
 
