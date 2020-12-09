@@ -23,4 +23,4 @@ Git is set up to greatly minimize damages to files and prevent losses of snapsho
  1. Modified -file was changed but not committed
  1. Staged -flagged a file's changed version to be commited in the next snapshot
 
-##### > Git was created by Linus Torvalds in 2005 and has become the most utilized Version Control System in the world.
+> Git was created by Linus Torvalds in 2005 and has become the most utilized Version Control System in the world.
