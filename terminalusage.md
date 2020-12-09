@@ -21,9 +21,9 @@ Use command echo $SHELL to see which shell you are using, example: if using bash
 
 - **root directory** -the top of the structure
 
-- **~** -shortcut for home directory ~/Documents as opposed to /home/marie/Documents
-- **.** -reference to your current directory ./Documents
-- **..** -reference to the parent directory, could be used multiple times to continue up hierarchy ../../ an so on
+- **~** (tilde) -shortcut for home directory ~/Documents as opposed to /home/marie/Documents
+- **.** (one dot) -reference to your current directory ./Documents
+- **..** (two dots) -reference to the parent directory, could be used multiple times to continue up hierarchy ../../ an so on
 
 - **cd [location]** -change directory, allows us to move around the system, using just **cd** will bring you back to home directory
 
@@ -35,3 +35,5 @@ Use command echo $SHELL to see which shell you are using, example: if using bash
 another method is escape characters \ nullifies the special meaning of the next character **My\ Photos**
 
 - **Hidden files and directories** -using **.** before a filename hides the file, ls wont list hidden files, using ls -a will include hidden files in the list
+
+[Read more about the Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
