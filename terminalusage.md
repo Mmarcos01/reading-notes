@@ -2,7 +2,7 @@
 # The Command Line (AKA The Terminal)
 
 It is a text based interface to the system, as opposed to a graphical user interface or GUI.
-Within a terminal is a *shell*, that defines the terminal's behaviour, the most common is **bash**
+Within a terminal is a *shell*, that defines the terminal's behavior, the most common is **bash**
 Use command echo $SHELL to see which shell you are using, example: if using bash, the path should end in /bash
 
 ### Notes:
