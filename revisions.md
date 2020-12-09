@@ -27,65 +27,65 @@ Git is set up to greatly minimize damages to files and prevent losses of snapsho
 
 ### Git Command Notes
 
-##### Identity 
+#### Identity 
 Set the user using the following:
 
 git config --global user.name "Jane Smith"
 git config --global user.email "example@email.com"
 
-##### To confirm user use:
+#### To confirm user use:
 
 git config --global user.name (should return Jane Smith)
 git config --global user.email (should return example@email.com)
 
 **With the –global option, the settings apply to anything on the system. To use different identity settings for a specific project, change the working directory to the desired local Git repository and use the commands without using –global.**
 
-##### To configure a different text editor: 
+#### To configure a different text editor: 
 $ git config --global core.editor "texteditorname"
 
-##### To check settings:
+#### To check settings:
 git config --list
 
-##### To get help with a command:
+#### To get help with a command:
 git help command
 git command --help
 man git-command
 
-##### Importing:
+#### Importing:
  1. $ cd test (switch to project's directory)
  1. $ git init (create new subdirectory named .git that has the repository files)
  1. $ git add *.c
 $ git add LICENSE
 $ git commit -m “any message here” (starts tracking and performs an initial commit)
 
-##### Cloning:
+#### Cloning:
 $ git clone https://github.com/test -create a copy of existing Git repository using the url
 
 $ git clone https://github.com/test mydirectory-clone a repository into a directory with another name, makes a copy of the target repository in a directory named “mydirectory.”
 
-##### Check file status:
+#### Check file status:
 $ git status
 
-##### Track one file:
+#### Track one file:
 git add filename
 
-##### Track all files:
+#### Track all files:
 $ git add *
 
-##### Commit file:
+#### Commit file:
 $ git commit -m “made change x,y,z”
 
-##### Commit all changes:
+#### Commit all changes:
 $ git commit -a
 
-##### Push changes:
+#### Push changes:
 $ git push origin master
 
-##### Stashing changes:
+#### Stashing changes:
 git stash (temporarily removes changes and hides them)
 git stash apply (retrieves hidden changes)
 
-##### Local Git repository has 3 components:
+#### Local Git repository has 3 components:
 
  1. Working Directory: where the actual files are
  1. Index: area used for staging
