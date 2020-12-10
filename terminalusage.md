@@ -1,5 +1,5 @@
 
-# The Command Line (AKA The Terminal)
+## The Command Line (AKA The Terminal)
 
 It is a text based interface to the system, as opposed to a graphical user interface or GUI.
 Within a terminal is a *shell*, that defines the terminal's behavior, the most common is **bash**
