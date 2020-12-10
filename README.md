@@ -4,6 +4,8 @@
 My name is Marie Marcos, former aircraft maintainer, current growth mindset utilizer learning to code.
 [Visit My GitHub](https://github.com/Mmarcos01?tab=repositories) or see what I learned about:
 
+- [Growth Mindset](growthmindset.md)
+
 - [Markdown](learnmarkdown.md)
 
 - [Text Editors](texteditor.md)
