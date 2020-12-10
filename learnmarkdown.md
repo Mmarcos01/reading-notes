@@ -1,7 +1,9 @@
 
 ## Markdown
 This site was made in GitHub using the coding language Markdown.
-Markdown is an easy way to make writing on the internet look good. With just a few extra characters you can stylize your text and add heirarchy to your page.
+Markdown uses symple syntax and is an easy way to make writing on the internet look good. With just a few extra characters you can stylize your text and add heirarchy to your page.
+
+### Here's a small sample of what you can do with markdown:
 
 **Syntax** | **Effect**
 ------ | ------
