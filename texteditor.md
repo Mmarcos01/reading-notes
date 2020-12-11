@@ -1,3 +1,5 @@
+[Home](README.md)
+
 ## Text Editors
 
 Every coder will need a text editor in order to write their code, which one they chose is up their preference but not all editors may be as helpful to the user as others.

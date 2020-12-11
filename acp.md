@@ -1,3 +1,5 @@
+[Home](README.md)
+
 ## Add Commit Push (ACP)
 
 #### Clone your git repository to the Terminal/Command Line
@@ -45,3 +47,5 @@ git commit -m "Leave a message between these quotes as to why you had made the c
 git push origin
 
 Enter your name and password and now your repository and associated Github pages will be updated with the pushed information.
+
+[Home](README.md)

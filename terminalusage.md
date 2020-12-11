@@ -1,3 +1,4 @@
+[Home](README.md)
 
 ## The Command Line (AKA The Terminal)
 
@@ -37,3 +38,5 @@ another method is escape characters \ nullifies the special meaning of the next 
 - **Hidden files and directories** -using **.** before a filename hides the file, ls wont list hidden files, using ls -a will include hidden files in the list
 
 [Read more about the Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+[Home](README.md)
