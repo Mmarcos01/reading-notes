@@ -35,9 +35,9 @@ Selectors are patterns used to select elements you want to style, for a list che
 ### How CS rules cascade:
 
 If there area two or more rules applied to an element:
- - If two selectors are identical, the latter will take precendence
+ - If two selectors are identical, the latter will take precedence
  - The more specific selector will take precedence
- - You can use !important after any property value to indicate that it should take precendence over any other rules applied to the same element
+ - You can use !important after any property value to indicate that it should take precedence over any other rules applied to the same element
  
 ### Inheritance
 
