@@ -22,3 +22,5 @@ Hello, my name is Marie Marcos and I'm from the beautiful state of Washington. I
 - [Starting with CSS](css.md)
 
 - [Starting with JavaScript](javascript.md)
+
+- [Computer Architecture and Logic](computers.md)
