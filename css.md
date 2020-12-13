@@ -45,3 +45,14 @@ Properties can be inherited from parent to their child elements. This saves time
 
 Your code may display differently on some browsers, this would be a browser quirk or CSS bug. Try google for fixes.
 
+**Browser Resources:**
+
+[BrowserCam](BrowserCam.com)
+[BrowserLab](BrowserLab.Adobe.com)
+[BrowserShots](BrowserShots.org)
+[CrossBrowserTesting](CrossBrowserTesting.org)
+
+**Browser Quirk Resources:**
+
+[PositionIsEverything](PositionIsEverything.net)
+[QuirksMode](QuirksMode.com)

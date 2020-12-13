@@ -1,3 +1,5 @@
+[Home](README.md)
+
 ## What does it mean to have Growth Mindset?
 Growth Mindset is to be open to learn and try new things, even with the fear of failure. Try, fail, **Try again.**
 
