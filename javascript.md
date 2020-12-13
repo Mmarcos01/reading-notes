@@ -16,3 +16,11 @@ Statements can be organized into **code blocks** (areas surrounded by curly brac
 The <*script*> element is used with embed JavaScript code.
 
 *Remember JavaScript is case sensitive*
+
+### Comments
+
+Comments should be used to explain what your code does and can be written as such:
+  - for multiline comments use /* this is a comment */
+  - for singleline comments use // this is a comment
+
+### Variables
