@@ -1,3 +1,5 @@
+[Home](README.md)
+
 ## JavaScript
 
 JavaScript is the behavior layer and provides **logic** and interactivity to your webpage.
@@ -24,3 +26,4 @@ Comments should be used to explain what your code does and can be written as suc
   - for singleline comments use // this is a comment
 
 ### Variables
+
