@@ -18,3 +18,5 @@ Hello, my name is Marie Marcos and I'm from the beautiful state of Washington. I
 - [Add Commit Push](acp.md)
 
 - [Starting with HTML](html.md)
+
+- [Starting with CSS](css.md)
