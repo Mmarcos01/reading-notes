@@ -1,7 +1,8 @@
 
 # Welcome to My Notes
 
-My name is Marie Marcos, former aircraft maintainer, current growth mindset utilizer learning to code.
+Hello, my name is Marie Marcos and I'm from the beautiful state of Washington. I'm a former Aviation Electrician for the US Navy and am now building on my technical knowlege with learning code.
+
 [Visit My GitHub](https://github.com/Mmarcos01?tab=repositories) or see what I learned about:
 
 - [Growth Mindset](growthmindset.md)
