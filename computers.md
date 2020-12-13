@@ -21,3 +21,7 @@ The binary number system can represent any number, any letters, images, and soun
 More wires= More bits= the ability to represent more complex information
 
 ### Circuits and Logic
+
+Inputs and Outputs are types of information that can be represented by on or off electrical signals, or 1's and 0's
+
+A computer modifies and combines the input signals, using millions of tiny electronic components that form circuits.
