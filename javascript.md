@@ -2,7 +2,8 @@
 
 ## JavaScript
 
-JavaScript is the behavior layer and provides **logic** and interactivity to your webpage.
+JavaScript is the behavior layer and provides **logic** and interactivity to your webpage. It can **access** content by selecting any element, attribute, or text in html. It can **modify** content by adding or removing elements, attributes, or text. With JavaScript you can specify rules for the browser to follow and have the script react to certain events, such as when the user clicks a button or hovers over an image.
+
 
 ### Objects and Methods
 
