@@ -104,6 +104,8 @@ An expression results in a single value; there are two types of expressions:
 
 Operators allow programmers to create a single value from one or more values.
 
+#### Types of Operators
+
   - Assignment Operators -the = sign, assigns a value to a variable
   **Ex:** colr = 'blue';
   - Arithmetic Operators -perform basic math, 
@@ -115,3 +117,13 @@ Operators allow programmers to create a single value from one or more values.
   - Logical Operators -combine expessions and return true or false,
   **Ex:** buy = (4 > 2) && (2 < 4); The value of buy is now true
 
+Operator | Name | Purpose | Example | Result
+------ | ------ 
+\+ | Addition |
+\- | Subtraction |
+/ | Division |
+\* | Multiplication |
+++ | Increment | Adds one to the current number | i = 10; |
+--- | --- | --- | i ++; | 11
+-- | Decrement | Subtracts one from the current number |
+% | Modulus | Divides two values and returns the remainder |
