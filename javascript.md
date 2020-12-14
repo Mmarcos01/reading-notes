@@ -41,10 +41,28 @@ Variables are used to "remember" bits of information, or "values", the values ca
 
 > This concept of variables is similar to those in algebra; where letters are used to represent numbers.
 
-Declare the variable -create the variable and give it a name
+- Declare the variable -create the variable and give it a name
 
 var quantity;
 
 Where **var** is the variable keyword and **quantity** is the variable name (sometimes called an identifier) If the variable name is more than one word it is usually written in camelCase.
 
+- Assign a variable a value -tell it what information you would like it to store for you.
 
+quanity = 3; 
+
+Where **quantity** is the variable name, (A name should describe the kind of data a variable holds.) **=** sign is the assignment operator (saying you are going to assign a value to the variable) and **3** is the value. (if there is no value, the value is **undefined**)
+
+### Data Types
+
+> JavaScript distinguishes between numbers, strings, and true or false values known as **Booleans**
+
+- **Numeric Data Type** -handles numbers:
+  0.75
+
+- **String Data Type** -consists of letters and other characters within single or double quotes:
+  'Hello, world!'
+  Strings are frequently used to add new content into a page and can contain html markup.
+
+- **Boolean Data Type** -can have one of two values; true or false:
+  true
