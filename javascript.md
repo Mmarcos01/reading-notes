@@ -117,6 +117,8 @@ Operators allow programmers to create a single value from one or more values.
   - Logical Operators -combine expessions and return true or false,
   **Ex:** buy = (4 > 2) && (2 < 4); The value of buy is now true
 
+**Arithmetic Operators**
+
 Operator | Name | Purpose | Example | Result
 ------ | ------ 
 \+ | Addition |
@@ -131,3 +133,16 @@ Operator | Name | Purpose | Example | Result
 
 > Order of execution: * and / are performed *before* + and -
 To change the order, place calculation you want done first inside parantheses.
+
+**String Operators**
+
+The plus sign **+** is the only string operator, it's used to join strings on either side of it. Programmers call the proces of joining two or more strings to create one: **concatenation**
+
+**Ex:** 
+var firstName = 'Jane';
+var lastName = 'Smith';
+var fullName = fistName + lastName;
+
+**Mixing numbers and strings together**
+When you place quotes around a number it becomes a string and you cannot perform addition operations on strings. If you try any other arithmetic operators on a string then result would be a value of **NaN**, meaning 'not a number'
+
