@@ -12,7 +12,7 @@ JavaScript is the behavior layer and provides **logic** and interactivity to you
 
 ### Script
 
-A script is a series of instructions for the computer to follow to achieve a goal. Each instruction should start on a new line, each instruction is known as a **statement**. Statments end with a semicolon. You can think of a script as a recipe, handbook, or manual.
+A script is a series of instructions for the computer to follow to achieve a goal. Each instruction should start on a new line, each instruction is known as a **statement**. You can think of a script as a recipe, handbook, or manual.
 
 ### Writing Scripts
 
@@ -21,11 +21,13 @@ When writing a script, first state your goal, then list the tasks that need to b
   1. Design the script -this can be a flowchart
   1. Code each step
 
-Statements can be organized into **code blocks** (areas surrounded by curly braces) Code blocks can be used to group together many more statements.
-
-The <*script*> element is used with embed JavaScript code.
+The <*script*> element is used with embed JavaScript code. When  the browser encounters the script element it stops to load the script and checks to see if it needs to do anything.
 
 *Remember JavaScript is case sensitive*
+
+### Statements
+
+Each individual instruction or step in a script is a **statement**. Each statement should start on a new line and end in a semicolon; which indicates the that the step is over and JavaScript should move to the next line. Statements can be organized into **code blocks** (areas surrounded by curly braces) Code blocks can be used to group together many more statements.
 
 ### Comments
 
@@ -34,4 +36,15 @@ Comments should be used to explain what your code does and can be written as suc
   - for singleline comments use // this is a comment
 
 ### Variables
+
+Variables are used to "remember" bits of information, or "values", the values can change or (vary) each time a script runs. Results are *calculated* or *computed* using data stored in variables.
+
+> This concept of variables is similar to those in algebra; where letters are used to represent numbers.
+
+Declare the variable -create the variable and give it a name
+
+var quantity;
+
+Where **var** is the variable keyword and **quantity** is the variable name (sometimes called an identifier) If the variable name is more than one word it is usually written in camelCase.
+
 
