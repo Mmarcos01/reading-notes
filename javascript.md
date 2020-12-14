@@ -146,3 +146,38 @@ var fullName = fistName + lastName;
 **Mixing numbers and strings together**
 When you place quotes around a number it becomes a string and you cannot perform addition operations on strings. If you try any other arithmetic operators on a string then result would be a value of **NaN**, meaning 'not a number'
 
+### Functions
+
+Functions allow you to group a series of statements together to perform a task. If different parts of a script repeat the same task, you can reuse the function rather than repeat the same set of statements.
+
+**Calling the function** -giving your function a name so that you can call upon that function to perform its task later
+
+**Parameters** -pieces of information passed to a function
+
+**Return value** -the response of a function
+
+**Function Declaration** -to create a function you give it a name, then write the statements needed to achieve it's task within curly braces
+
+You declare a function using the **function** keyword, give it a name (aka identifier) followed by parentheses, the statements sit it a code block within {}
+
+**Ex:**
+function sayHello() {
+  document.write('Hello!');
+}
+
+When calling the function you use the function name followed by parentheses.
+
+**Ex:**
+
+sayHello();
+
+Sometimes a function needs **parameters**, which act like variables and provides specific information that may be needed for a function to perform its taks. 
+
+You indicate what the function needs to know within parentheses after the function name.
+
+**Ex:**
+
+function getArea(width, height) {
+  return width * height;
+}
+
