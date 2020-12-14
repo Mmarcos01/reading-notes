@@ -90,4 +90,28 @@ el.textContent = '$' + total; <-- replace content of cost with total
     1. use a name that describes the kind of information that the variable stores
     1. if the name is more than one word, use camelCase or underscores 
 
+### Expressions
+
+An expression results in a single value; there are two types of expressions:
+  
+  1. Those that assign a value to a variable; using an assignment operator such as '=' 
+  **Example:** var color = 'blue'; The value of color is now blue.
+  
+  1. Those that use two or more values to return a single value.
+  **Example:** var area = 2 * 4; The value of area is now 8.
+
+### Operators 
+
+Operators allow programmers to create a single value from one or more values.
+
+  - Assignment Operators -the = sign, assigns a value to a variable
+  **Ex:** colr = 'blue';
+  - Arithmetic Operators -perform basic math, 
+  **Ex:** area = 2 * 4
+  - String Operators -combine two strings, 
+  **Ex:** greeting = 'Hello' + 'world'; The value is now Hello world
+  - Comparison Operators -compare two values and return true or false,
+  **Ex:** buy = 2 > 4; the value of buy is false
+  - Logical Operators -combine expessions and return true or false,
+  **Ex:** buy = (4 > 2) && (2 < 4); The value of buy is now true
 
