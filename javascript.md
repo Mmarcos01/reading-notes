@@ -124,6 +124,6 @@ Operator | Name | Purpose | Example | Result
 / | Division |
 \* | Multiplication |
 ++ | Increment | Adds one to the current number | i = 10; |
- |  |  | i ++; | 11
+&nbsp; | &nbsp; | &nbsp; | i ++; | 11
 -- | Decrement | Subtracts one from the current number |
 % | Modulus | Divides two values and returns the remainder |
