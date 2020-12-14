@@ -123,7 +123,11 @@ Operator | Name | Purpose | Example | Result
 \- | Subtraction |
 / | Division |
 \* | Multiplication |
-++ | Increment | Adds one to the current number | i = 10; |
-&nbsp; | &nbsp; | &nbsp; | i ++; | 11
--- | Decrement | Subtracts one from the current number |
-% | Modulus | Divides two values and returns the remainder |
+++ | Increment | Adds one to the current number | i = 10; 
+&nbsp; | &nbsp; | &nbsp; | i++; | 11
+-- | Decrement | Subtracts one from the current number | i = 10; 
+&nbsp; | &nbsp; | &nbsp; | i--; | 9
+% | Modulus | Divides two values and returns the remainder | 10 % 3 | 1
+
+> Order of execution: * and / are performed *before* + and -
+To change the order, place calculation you want done first inside parantheses.
