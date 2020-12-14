@@ -57,12 +57,23 @@ Where **quantity** is the variable name, (A name should describe the kind of dat
 
 > JavaScript distinguishes between numbers, strings, and true or false values known as **Booleans**
 
-- **Numeric Data Type** -handles numbers:
+- **Numeric Data Type** (p63)-handles numbers:
+  
   0.75
 
-- **String Data Type** -consists of letters and other characters within single or double quotes:
+  var el = document.getElementById('cost'); <-- find the element by the id of *cost*
+el.textContent = '$' + total; <-- replace content of cost with total
+
+- **String Data Type** (p64)-consists of letters and other characters within single or double quotes, (using backward slash escapes the quotation, ref. page 65):
+  
   'Hello, world!'
+  
   Strings are frequently used to add new content into a page and can contain html markup.
 
-- **Boolean Data Type** -can have one of two values; true or false:
+- **Boolean Data Type** (p67) -can have one of two values; true or false:
+
   true
+
+  Like a light switch it can either be on or off (can also think of as off/on or 0/1). Booleans are helpful when determining which part of a script should run, when the code can take more than one path; different code may run in different circumstance.
+
+
