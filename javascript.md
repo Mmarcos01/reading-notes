@@ -76,4 +76,18 @@ el.textContent = '$' + total; <-- replace content of cost with total
 
   Like a light switch it can either be on or off (can also think of as off/on or 0/1). Booleans are helpful when determining which part of a script should run, when the code can take more than one path; different code may run in different circumstance.
 
+  ### Short hand for creating variables (p67)
+
+  More advanced way to write JavaScript code, makes code a little harder to follow.
+
+  ### Changing the value of a variable (p68)
+
+  ### 6 rules to always follow when giving a variable a name (p69)
+    1. name must begin with $, _, or a letter and **NOT** a number
+    1. the name can contain letters, numbers, $, or _, and **NOT** -, or .
+    1. cannot use **keywords** or **reserved words** 
+    1. all variables are case sensitive
+    1. use a name that describes the kind of information that the variable stores
+    1. if the name is more than one word, use camelCase or underscores 
+
 
