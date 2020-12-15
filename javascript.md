@@ -113,7 +113,7 @@ Operators allow programmers to create a single value from one or more values.
   - String Operators -combine two strings, 
   **Ex:** greeting = 'Hello' + 'world'; The value is now Hello world
   - Comparison Operators -compare two values and return true or false,
-  **Ex:** buy = 2 > 4; the value of buy is false
+  **Ex:** buy = 2 > 4; the value of buy is false,
   - Logical Operators -combine expessions and return true or false,
   **Ex:** buy = (4 > 2) && (2 < 4); The value of buy is now true
 
@@ -132,7 +132,7 @@ Operator | Name | Purpose | Example | Result
 % | Modulus | Divides two values and returns the remainder | 10 % 3 | 1
 
 > Order of execution: * and / are performed *before* + and -
-To change the order, place calculation you want done first inside parantheses.
+To change the order, place calculation you want done first inside parentheses.
 
 **String Operators**
 

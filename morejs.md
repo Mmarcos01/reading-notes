@@ -1,3 +1,5 @@
+[Home](README.md)
+
 ## JavaScript: Continued
 
 ### More on Operators
@@ -79,9 +81,9 @@ Loops check a condition. If it returns true, a code block will run. It wil rerun
 
 #### Loop Counters (p170-173)
 
-**for (var i = 0; i < 10; i++>) {
-    document.write(i);
-}
+**for (var i = 0; i < 10; i++>) {**
+    **document.write(i);**
+**}**
 
 - In this for loop, the condition is made up of 3 statements
     1. var i = 0; 
@@ -93,5 +95,19 @@ Loops check a condition. If it returns true, a code block will run. It wil rerun
 
 > When the condition is no longer true, the loop ends. The script moves to the next line of code.
 
-    
+#### Using While Loops
 
+**var i = 1;** // Set couter to 1
+**var msg = '';** // Message
+
+// Store 5 times table in a variable
+**while (i < 10) {**
+    **msg += i + ' x 5 = ' + (i * 5) + '<*br* />';**
+    **i++;**
+    **}**
+
+**document.getElementById('answer').innerHTML = msg;**
+
+This is an example of a while loop that writes out the 5 times table. Each time the loop is run, another calculation is written into the variable called msg. In this example, the condition specifies that the code should run nine times. The loop will continue to run as long as the condition in the parentheses is true.
+
+[Home](README.md)
