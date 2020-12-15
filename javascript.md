@@ -184,9 +184,11 @@ function getArea(width, height) {
 When calling a function that has parameters, you specify the values it should use in the parentheses that follow its name. The values are called **arguments** and can be:
 
 values **Ex:** 
+
 getArea(3,5); 
 
 or variables **Ex:** 
+
 wallWidth = 3;
 wallHeight = 3;
 getArea(wallWidth, wallHeight);
