@@ -63,3 +63,35 @@ Logical operators allow you to compare the results of more than one comparison o
 
 **Short-Circuit Evaluation**
     - Logical expressions are evaluated from left to right. If the first condition provides enough information to get the answer, there is no need to evaluate the second condition.
+
+### Loops
+
+Loops check a condition. If it returns true, a code block will run. It wil rerun until the condition returns false. There are 3 common types of loops.
+
+1. FOR 
+    - (the most common) If you need to run code a specific number of times use a for loop. In a for loop, the condition is usually a counter to tell how many times the loop should run.
+
+1. WHILE
+    - If you don't know how many times a loop should run, you can use a while loop. The condition can be something other than a counter, and the code will continue to loop for as long as the condition is true.
+
+1. DO WHILE
+    - The do...while loop is similar to the while loop, the only difference is that it will always run the statements inside the curly braces at least once, even if the condition evaluates as false.
+
+#### Loop Counters (p170-173)
+
+**for (var i = 0; i < 10; i++>) {
+    document.write(i);
+}
+
+- In this for loop, the condition is made up of 3 statements
+    1. var i = 0; 
+        - Initialization; create a variable and set it to 0, this variable is commonly called i and acts as a counter
+    1. i < 10;
+        - Condition; the loop should continue to run until the counter reaches a specified number. In this case the loop will run 10 times before stopping.
+    1. i++
+        - Update; everytime the loop has run the statements in the curly braces, it adds one to the counter. Another way of reading this is "Take the variable i, and add one using the ++ operator."
+
+> When the condition is no longer true, the loop ends. The script moves to the next line of code.
+
+    
+
