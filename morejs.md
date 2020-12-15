@@ -2,6 +2,8 @@
 
 ### More on Operators
 
+Comparison operators usually return single values of true or false.
+
 Boolean: true or false
 
 **==** means is equal to, it compares two values (numbers, strings, or Booleans) to see if they are the same
@@ -41,3 +43,23 @@ Conditions can be complex and usually result in a value of true or false. With a
 
 ### Logical Operators
 
+Logical operators allow you to compare the results of more than one comparison operator.
+
+**&&** Logical AND, tests more than one condition
+
+- ((2 < 5) && (3 >=2)) returns true
+    - true && true returns true, otherwise returns false
+
+**||** Logical OR, tests at least one condition.
+
+- ((2 < 5) || (2 < 1)) returns true
+    - false || false returns false, otherwise returns true
+
+**!** Logical NOT, takes a single Boolean value and inverts it
+
+- !(2 < 1) returns true
+    - !true returns false
+    - !false returns true
+
+**Short-Circuit Evaluation**
+    - Logical expressions are evaluated from left to right. If the first condition provides enough information to get the answer, there is no need to evaluate the second condition.
