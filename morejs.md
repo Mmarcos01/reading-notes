@@ -52,7 +52,7 @@ Logical operators allow you to compare the results of more than one comparison o
 - ((2 < 5) && (3 >=2)) returns true  
     true && true returns true, otherwise returns false  
 
-**||** Logical OR, tests at least one condition.
+**\\||** Logical OR, tests at least one condition.
 
 - ((2 < 5) || (2 < 1)) returns true  
     false || false returns false, otherwise returns true  
