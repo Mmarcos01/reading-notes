@@ -81,9 +81,9 @@ Loops check a condition. If it returns true, a code block will run. It wil rerun
 
 #### Loop Counters (p170-173)
 
-**for (var i = 0; i < 10; i++>) {**
-    **document.write(i);**
-**}**
+**for (var i = 0; i < 10; i++>) {**  
+    **document.write(i);**  
+**}**  
 
 - In this for loop, the condition is made up of 3 statements
     1. var i = 0; 
