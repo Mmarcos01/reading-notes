@@ -39,4 +39,4 @@ another method is escape characters \ nullifies the special meaning of the next 
 
 [Read more about the Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
-[Home](README.md) | [Back to Top](#The-Command-Line-(AKA-The-Terminal))
+[Home](README.md) | [Back to Top](terminalusage.md)
