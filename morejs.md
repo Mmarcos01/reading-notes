@@ -1,8 +1,8 @@
 [Home](README.md)
 
-[More on Operators](#more-on-operators)
-[Logical Operators](#logical-operators)
-[Loops](#loops)
+[More on Operators](#more-on-operators)  
+[Logical Operators](#logical-operators)  
+[Loops](#loops)  
 
 ## JavaScript: Continued
 
@@ -114,4 +114,4 @@ Loops check a condition. If it returns true, a code block will run. It wil rerun
 
 This is an example of a while loop that writes out the 5 times table. Each time the loop is run, another calculation is written into the variable called msg. In this example, the condition specifies that the code should run nine times. The loop will continue to run as long as the condition in the parentheses is true.
 
-[Home](README.md)|[Back to Top](morejs.md)
+[Home](README.md) | [Back to Top](morejs.md)

@@ -1,3 +1,5 @@
+[Home](README.md)
+
 ## Computer Architecture and Logic
 
 Learning how computers work is imporant for anyone in the tech industry and is the first step towards understanding.
@@ -25,3 +27,5 @@ More wires= More bits= the ability to represent more complex information
 Inputs and Outputs are types of information that can be represented by on or off electrical signals, or 1's and 0's
 
 A computer modifies and combines the input signals, using millions of tiny electronic components that form circuits.
+
+[Home](README.md)|[Back to Top](computers.md)

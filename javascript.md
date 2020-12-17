@@ -1,11 +1,11 @@
 [Home](README.md)
 
-[Statements](#statements)
-[Variables](#variables)
-[Data Types](#data-types)
-[Expressions](#expressions)
-[Operators](#operators)
-[Functions](#functions)
+[Statements](#statements)  
+[Variables](#variables)  
+[Data Types](#data-types)  
+[Expressions](#expressions)  
+[Operators](#operators)  
+[Functions](#functions)  
 
 ## JavaScript
 
