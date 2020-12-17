@@ -48,4 +48,4 @@ git push origin
 
 Enter your name and password and now your repository and associated Github pages will be updated with the pushed information.
 
-[Home](README.md) | [Back to Top](#Add-Commit-Push-(ACP))
+[Home](README.md) | [Back to Top](##add-commit-push-(acp))
