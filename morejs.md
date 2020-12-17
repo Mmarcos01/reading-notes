@@ -1,10 +1,11 @@
 [Home](README.md)
 
+## Contents:  
 [More on Operators](#more-on-operators)  
 [Logical Operators](#logical-operators)  
 [Loops](#loops)  
 
-## JavaScript: Continued
+### JavaScript: Continued
 
 ### More on Operators
 
