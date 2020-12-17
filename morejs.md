@@ -5,8 +5,6 @@
 [Logical Operators](#logical-operators)  
 [Loops](#loops)  
 
-### JavaScript: Continued
-
 ### More on Operators
 
 Comparison operators usually return single values of true or false.
