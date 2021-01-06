@@ -7,6 +7,8 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 [Visit My GitHub](https://github.com/Mmarcos01?tab=repositories) or see what I learned about:
 
+## Code 102:
+
 - [Growth Mindset](growthmindset.md)
 
 - [Markdown](learnmarkdown.md)
@@ -28,3 +30,5 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 - [JavaScript: Continued](morejs.md)
 
 - [Computer Architecture and Logic](computers.md)
+
+## Code 201:
