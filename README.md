@@ -33,4 +33,4 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 ## Code 201 Reading Notes:
 
-- [HTML and Javascript: Continued](class-01.md)
+- [HTML and Javascript Review](class-01.md)
