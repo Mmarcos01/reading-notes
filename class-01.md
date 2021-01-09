@@ -15,10 +15,11 @@
 \<iframes>  
 \<meta>  
 
-Recall the structure of an HTML5 layout and the tags used within it:  
+### Recall the structure of an HTML5 layout and the tags used within it:  
 ![](htmllayout.png)
 
-Recall the steps of the website design process:  
+### Recall the steps of the website design process:  
+
 Think about the user foremost. Who are they, what are their goals and how will they get there.
 
 ## Revisit these notes for further review:  
