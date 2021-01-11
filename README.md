@@ -35,4 +35,4 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 - [HTML and Javascript Review](class-01.md)
 
-- [HTML, CSS, and Javascript Arrays](class-02.md)
+- [Javascript Arrays, Decisions and Loops](class-02.md)
