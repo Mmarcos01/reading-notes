@@ -5,32 +5,32 @@ HTML has six levels of headings: \<h1> for main headings, \<h2> for sub headings
 
 Text size for headings will range from \<h1>: the biggest to \<h2> the smallest.
 
-\<p> -paragraphs  
-\<b> -bolden  
-\<i> -italicize  
-\<sup> -superscript (such as in 2<sup>2</sup>)  
-\<sub> -subscript (such as in H<sub>2</sub>O)  
-white space collapsing -browser displaying two or more spaces as one space  
-empty element -only one tag, no closing tag  
+\<p> - paragraphs  
+\<b> - bolden  
+\<i> - italicize  
+\<sup> - superscript (such as in 2<sup>2</sup>)  
+\<sub> - subscript (such as in H<sub>2</sub>O)  
 
-\<br /> -creates line break  
-\<hr /> -creates orizontal rule between sections  
+white space collapsing - browser displaying two or more spaces as one space  
+empty element - only one tag, no closing tag  
+\<br /> - creates line break  
+\<hr /> - creates orizontal rule between sections  
 
 ## Semantic Markup
 
 Semantic markup is intended to add extra information to the page  
 
-\<strong> -indicates strong importance, will display as bold  
-\<em> -indicates emphasis, will display italic  
-\<blockquote> -used for longer quotes, the \<p> element is used within  
-\<q> -for shorter quotes, should put quotes around the text however some do not  
-\<abbr> -used for abbreviations or acronyms  
-\<cite> -used for referencing, will display italic  
-\<dfn> -indicates the defining instance of a new term  
-\<address> -contains contact details  
-\<ins> -shows text that has been inserted into a document (underlined)  
-\<del> -shows text that has been deleted from a document (crossed out)  
-\<s> -indicates something is no longer relevant but needs not be deleted (crossed out) such as a previous price  
+\<strong> - indicates strong importance, will display as bold  
+\<em> - indicates emphasis, will display italic  
+\<blockquote> - used for longer quotes, the \<p> element is used within  
+\<q> - for shorter quotes, should put quotes around the text however some do not  
+\<abbr> - used for abbreviations or acronyms  
+\<cite> - used for referencing, will display italic  
+\<dfn> - indicates the defining instance of a new term  
+\<address> - contains contact details  
+\<ins> - shows text that has been inserted into a document (underlined)  
+\<del> - shows text that has been deleted from a document (crossed out)  
+\<s> - indicates something is no longer relevant but needs not be deleted (crossed out) such as a previous price  
 
 ## CSS
 
@@ -45,7 +45,7 @@ CSS (Cascading Style Sheets) associates rules with HTML elements and affect how 
 
 JavaScript provides **logic** and interactivity to your webpage. It can **access** content by selecting any element, attribute, or text in html. It can **modify** content by adding or removing elements, attributes, or text. With JavaScript you can **program** rules for the browser to follow and have the script **react** to certain events, such as when the user clicks a button or hovers over an image.
 
-Script - series of instructions for a computer to follow one by one, each individual instruction is known as a **statement**.
+Script - series of instructions for a computer to follow one by one, each individual instruction is known as a **statement**.  
 Variables - temporarily store pieces of information used in the script
 
 ## Arrays
@@ -115,7 +115,7 @@ if (score > 50) {
 This code is saying that:
 If the condition is true (score is greater than 50); execute the message 'You passed!', otherwise execute the message 'Try again.'
 
-[See Also: Class 101 Notes Part 1](javascript.md)
+[See Also: Class 101 Notes Part 1](javascript.md)  
 [See Also: Class 101 Notes Part 2](morejs.md)  
 
 [Home](README.md)
