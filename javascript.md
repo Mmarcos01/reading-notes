@@ -202,4 +202,4 @@ wallWidth = 3;
 wallHeight = 3;
 getArea(wallWidth, wallHeight);
 
-[Home](README.md) | [Back to Top](javascript.md)|
+[Home](README.md) | [Back to Top](javascript.md)
