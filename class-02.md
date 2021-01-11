@@ -1,4 +1,6 @@
 
+[Home](README.md)
+
 HTML has six levels of headings: \<h1> for main headings, \<h2> for sub headings, \<h3>-\<h6> for sections under sub heeadings.  
 
 Text size for headings will range from \<h1>: the biggest to \<h2> the smallest.
@@ -29,3 +31,15 @@ Semantic markup is intended to add extra information to the page
 \<ins> -shows text that has been inserted into a document (underlined)
 \<del> -shows text that has been deleted from a document (crossed out)
 \<s> -indicates something is no longer relevant but needs not be deleted (crossed out) such as a previous price
+
+## CSS
+
+CSS (Cascading Style Sheets) associates rules with HTML elements and affect how elements are displayed. A CSS rule contains two parts:  
+1. selector - specifies the element
+1. declaration - indicates how the elements should appear
+    - a declaration contains a property and its value, such as color: blue;
+
+[See also: 101 CSS notes](css.md)
+
+[Home](README.md)
+
