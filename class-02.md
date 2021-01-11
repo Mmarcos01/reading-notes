@@ -115,8 +115,8 @@ if (score > 50) {
 This code is saying that:
 If the condition is true (score is greater than 50); execute the message 'You passed!', otherwise execute the message 'Try again.'
 
-[See Also: Class 101 Notes Part 1](javascript.md)  
-[See Also: Class 101 Notes Part 2](morejs.md)  
+[See Also: Class 101 Notes Javascript Part 1](javascript.md)  
+[See Also: Class 101 Notes Javascript Part 2](morejs.md)  
 
 [Home](README.md)
 
