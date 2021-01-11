@@ -100,7 +100,23 @@ var el = document.getElementById('colors');
 
 el.textContent = colors\[1];
 
-[See Also: Class 101 Notes](javascript.md)(morejs.md)
+## Decision Making
+
+Decisions can be made in script to determine which line of could should be run next. There are two components to a decision:  
+1. An expression is evaluating, which returns a value
+1. A conditional statement says what to do in a given situation  
+
+if (score > 50) {
+    document.write('You passed!');
+} else {
+    document.write('Try again.');
+}  
+
+This code is saying that:
+If the condition is true (score is greater than 50); execute the message 'You passed!', otherwise execute the message 'Try again.'
+
+[See Also: Class 101 Notes Part 1](javascript.md)
+[See Also: Class 101 Notes Part 2](morejs.md)  
 
 [Home](README.md)
 
