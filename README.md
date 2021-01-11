@@ -34,3 +34,5 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 ## Code 201 Reading Notes:
 
 - [HTML and Javascript Review](class-01.md)
+
+- [HTML, CSS, and Javascript Arrays](class-02.md)

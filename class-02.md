@@ -41,5 +41,66 @@ CSS (Cascading Style Sheets) associates rules with HTML elements and affect how 
 
 [See also: 101 CSS notes](css.md)
 
+## Javascript
+
+JavaScript provides **logic** and interactivity to your webpage. It can **access** content by selecting any element, attribute, or text in html. It can **modify** content by adding or removing elements, attributes, or text. With JavaScript you can **program** rules for the browser to follow and have the script **react** to certain events, such as when the user clicks a button or hovers over an image.
+
+Script - series of instructions for a computer to follow one by one, each individual instruction is known as a **statement**.
+Variables - temporarily store pieces of information used in the script
+
+## Arrays
+
+ An array stores a list of values, when creating an array you give it a name like any other variable and followed by the name array. 
+
+### Array Literal
+The values are assigned to an array inside square brackets [], each value being separated by a comma. Such as:  
+
+var: colors;
+colors = ['red', 'blue', 'green'];
+
+### Array Constructor
+Uses the new keyword followed by Array(); and values are specified in parenthesis as oppsed to square brackets. Such as:  
+
+var colors = new Array ('red', 'blue', 'green');
+
+> Values in an array are accessed as a numbered list starting at 0. Each item is automatically given a number called an index.  
+
+var: colors;
+colors = ['red', 'blue', 'green'];  
+
+The index for these values are:  
+
+0 'red'
+1 'blue'
+2 'green'
+
+Each array has a property called **length**, which holds the number of items in the array. Here numColors value is set to be the number of items in the array:   
+
+var numColors;
+numcolors = colors.length;
+
+### Accessing and changing array values
+
+After the array name, specify the index number for that value within the square brackets  
+
+*Create Array:*  
+
+var: colors;
+colors = ['red', 'blue', 'green'];  
+
+*Update second item in the array:*  
+
+colors\[1] = 'black';
+
+*Get the element with an id of colors:*  
+
+var el = document.getElementById('colors');  
+
+*Replace with second item in from the array:*  
+
+el.textContent = colors\[1];
+
+[See Also: Class 101 Notes](javascript.md)(morejs.md)
+
 [Home](README.md)
 
