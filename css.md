@@ -47,5 +47,13 @@ Properties can be inherited from parent to their child elements. This saves time
 
 Your code may display differently on some browsers, this would be a browser quirk or CSS bug. Try google for fixes.
 
+<!-- 
+Helpful css to see boxes around different sections of css
+
+* {
+  border: 1px solid white;
+  margin: 25px;
+  padding: 10px;
+} -->
 
 [Home](README.md) | [Back to Top](css.md)
