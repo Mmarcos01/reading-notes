@@ -32,11 +32,20 @@ Creating a border around your boxes is a good way to see how your boxes are set 
 switch (value){
 }  
 
-**Type Coercion** - Javascript can convert data types to complete an operation, such as string '1' to number 1.  
+**Type Coercion** - Javascript can convert data types to complete an operation, such as string '1' to number 1. Type coercion can lead to unexpected errors, therefore it is beter to use operators such as === and !== as opposed to == and !=
 
   - weak typing - Javascript uses weak typing because data types can change
   - strong typing - some languages have the requirement to specify which data type a variable will be  
 
+### Truthy and Falsy Values  
+
+> Due to type coercion, every value in Javascript can be treated as true or false.
+
+**Falsy** - values treated as if they are false or 0
+**Truthy** - values treated as if they are true or 1
+**Unary Operator** - returns a result with just one operand.
+
+[See Also: Class 101, More on Javascript and Loops](morejs.md)
 
 
 [Home](README.md)
