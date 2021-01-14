@@ -9,7 +9,7 @@ Text size for headings will range from \<h1>: the biggest to \<h2> the smallest.
 \<b> - bolden  
 \<i> - italicize  
 \<sup> - superscript (such as in 2 <sup>2</sup> )  
-\<sub> - subscript (such as in H <sub>2</sub>O )  
+\<sub> - subscript (such as in H <sub>2</sub>O ) 
 
 white space collapsing - browser displaying two or more spaces as one space  
 empty element - only one tag, no closing tag  
