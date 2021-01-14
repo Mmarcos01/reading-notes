@@ -25,6 +25,18 @@ The term 'box model' is used in CSS regarding design and layout. In HTML all ele
 
 Creating a border around your boxes is a good way to see how your boxes are set up on the page.
 
+## Javascript Decisions and Loops
+
+**Switch Statements** start with a variable called the switch value and performs different actions based on different conditions.  
+
+switch (value){
+}  
+
+**Type Coercion** - Javascript can convert data types to complete an operation, such as string '1' to number 1.  
+
+  - weak typing - Javascript uses weak typing because data types can change
+  - strong typing - some languages have the requirement to specify which data type a variable will be  
+
 
 
 [Home](README.md)
