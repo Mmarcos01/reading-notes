@@ -1,3 +1,5 @@
+[Home](README.md)  
+
 ## HTML Links
 
 Links are created using the \<a> element which has an attribute called href- which will hold the outside page you wish the user to link to, or **absolute url**.  
@@ -60,3 +62,36 @@ As long as the page you are linking to has id attributes that identify specific 
 **Liquid Layouts** - stretch and contract as the user increases or decreases the size of their browser window  
 
 >Use of grids in web design is useful in creating consistent proportions and spaces between items for a professional look
+
+## Javascript Review
+
+1. What is a function? (p88)
+2. First you must \___ a function before calling a function. (p90)
+3. Statements needed to achieve the task of a function is written in ___ ? (p90) 
+4. What is variable scope? The difference between local and global variables. Which uses more memory? (p98) 
+
+**Function expession** - If you put a function where the interpreter expects to see an expression, then it is treated as an expression, and is known as a function expression.
+
+**Anonymous expression** - a function with no name
+
+### Immediately Invoked Function Expressions (IIFE, pronounced "iffy")
+
+These functions are not given a name, and are executed once as the interpreter comes across them. Final parenthesis () tell the interpreter to call the function immediately. Anonymous and IIFE functions are used when the code only needs to run once within a task.  
+
+## Pair Programming
+
+[Read Article: Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+
+Pair programming is the practice of two developers sharing a single work station in order to foster a collaborative work environment.  
+
+The two parts to the pair are the Driver- who does the typing and hands-on portion of coding; and the Navigator - who thinks about how an algorithm might work in code and guides the driver with words.  
+
+**Advantages of Pair Programming:**
+- Greater efficiency
+- Engaged collaboration
+- Learning from fellow students
+- Practice social skills
+- Job interview readiness
+- Work environment readiness  
+
+[Home](README.md)|[Back to Top](class-04.md)
