@@ -38,8 +38,11 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 - [Javascript Arrays, Decisions and Loops](class-02.md)
 
 - [HTML: Lists and Boxes, Javascript: Decisions and Loops](class-03.md)
+
 - [HTML: Links and Layouts, Javascript: Functions, Methods and Objects](class-04.md)
-- class 5
+
+- [HTML: Images, Color and Text](class-05.md)
+
 - class 6
 - class 7
 - class 8

@@ -1,3 +1,5 @@
+[Home](README.md)  
+
 ## HTML Images
 
 When adding images to your site it is good practice to keep them in their own images folder. Images should, be relevant, convey information, mood, and fit the color palette.
@@ -28,3 +30,39 @@ Animated GIF - show several frames of an image in sequence; each frame increases
 Images on your website should preferably be saved at the same height and width you want them to appear on the page.
 
 ## Color
+
+**Three ways to specify color in CSS:**  
+
+  1. RGB values - Example: rgb(100,100,90)
+  1. HEX Codes - Example: #ee3e80
+  1. Color Names- Example: blue  
+
+  **CSS3 introduces new and intuitive way to specify color using hue, saturation, and lightness values:**  
+
+    1. HSL - 
+        - Hue - color
+        - Saturation - the amount of gray in a color; represented from 0% - 100%
+        - Lightness - amount of white or black in a color from 0% (black) - 100% (white), 50% lightness is normal. Lightness is sometimes referred to as luminosity. (Lightness differs from brightness, brightness only adds black)
+
+    1. HSLA - HSL but includes Alpha
+        - Alpha - represents transparency as a number between 0 - 1.0; whereas 0.5 represents 50% transparency
+
+  > Older browsers won't recognize HSL, so it is a good idea to add an extra rule specifying color by name, RGB, or HEX value.
+
+  ## Text
+
+  **Typeface**
+    - Serif - extra details on the end of strokes
+    - Sans Serif - straight ends, cleaner design
+    - Monospace - each letter has the same width
+    - Cursive - have joining strokes or handwrighting style
+    - Fantasy - usually decorative, often used for titles
+
+## Ch. 12 Text Review:
+
+1. What are some properties you can use to control font?
+1. What can text-decoration property be used for?
+1. What are pseudo-classes?
+1. What is leading and kearning?  
+
+[Home](README.md)|[Back to Top](class-05.md)
