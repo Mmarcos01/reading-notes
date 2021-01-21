@@ -39,13 +39,13 @@ Images on your website should preferably be saved at the same height and width y
 
   **CSS3 introduces new and intuitive way to specify color using hue, saturation, and lightness values:**  
 
-    1. HSL - 
-        - Hue - color
-        - Saturation - the amount of gray in a color; represented from 0% - 100%
-        - Lightness - amount of white or black in a color from 0% (black) - 100% (white), 50% lightness is normal. Lightness is sometimes referred to as luminosity. (Lightness differs from brightness, brightness only adds black)
+  1. HSL - 
+    - Hue - color
+    - Saturation - the amount of gray in a color; represented from 0% - 100%
+    - Lightness - amount of white or black in a color from 0% (black) - 100% (white), 50% lightness is normal. Lightness is sometimes referred to as luminosity. (Lightness differs from brightness, brightness only adds black)
 
-    1. HSLA - HSL but includes Alpha
-        - Alpha - represents transparency as a number between 0 - 1.0; whereas 0.5 represents 50% transparency
+  2. HSLA - HSL but includes Alpha
+    - Alpha - represents transparency as a number between 0 - 1.0; whereas 0.5 represents 50% transparency
 
   > Older browsers won't recognize HSL, so it is a good idea to add an extra rule specifying color by name, RGB, or HEX value.
 
