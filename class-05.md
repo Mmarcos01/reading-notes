@@ -54,7 +54,7 @@ Images on your website should preferably be saved at the same height and width y
     - Serif - extra details on the end of strokes
     - Sans Serif - straight ends, cleaner design
     - Monospace - each letter has the same width
-    - Cursive - have joining strokes or handwrighting style
+    - Cursive - have joining strokes or handwriting style
     - Fantasy - usually decorative, often used for titles
 
 ## Ch. 12 Text Review:
