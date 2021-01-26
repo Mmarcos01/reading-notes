@@ -43,7 +43,8 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 - [HTML: Images, Color and Text](class-05.md)
 
-- class 6
+- [Javascript: Objects, DOM](class-06.md)
+
 - class 7
 - class 8
 - class 9
