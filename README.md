@@ -45,7 +45,8 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 - [Javascript: Objects, DOM](class-06.md)
 
-- class 7
+- [HTML: Tables, Javascript: Constructors](class-07.md)
+
 - class 8
 - class 9
 - class 10
