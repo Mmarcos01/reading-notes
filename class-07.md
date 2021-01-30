@@ -30,7 +30,32 @@ A table represents information in grid format. Each block in the grid is referre
 
 ## JavaScript: Functions, Methods, and Objects
 
+### Creating an Object: Constructor Notation
 
+The *new** keyword and the object constructor create a blank object, to which properties and methods can then be added.  
+
+To update the value of properties, use dot notation or square brackets. For example, using the **delete** keyword:  
+
+delete object.key;  
+
+You create *instances* of the objecct using the constructo function. The **new** keyword followed by a call to the function creates a new object. The properties of each object are given as arguments to the function.  
+
+Example: (pg. 109)
+
+var quayHotel = new Hotel ('Quay', 40, 25);
+var parkHotel = new Hotel ('Park', 120, 77);  
+
+### Ways to create Objects
+
+  1. Create the object, then add properties and methods
+      Literal Notation or Object Constructor Notation
+
+  1. Create an object *with* properties and methods
+      Literal Notation or Object Constructor Notation
+
+*See examples on page 113 for creating objects and storing data*  
+
+## Build-In Objects
 
 
 
