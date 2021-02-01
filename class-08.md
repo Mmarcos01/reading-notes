@@ -14,7 +14,7 @@ Advantages of using a grid:
   - make it easier to add new content in a consistent way
   - helps people collaborate on the design in a consistent way  
 
-  ## CSS Frameworks
+## CSS Frameworks
 
   CSS frameworks provide code for common tasks, such as creating layout grids, styling forms, creating printer friendly versions of pages ect., this code can be used in your projects rather than writing the CSS from scratch.  
 
@@ -26,20 +26,20 @@ Advantages of using a grid:
     - often require that you use class names in your HTML code that only control the presentation of the page (rather than describe its content)
     - often contain more code than you need for your particular web page (aka code "bloat")  
 
-  ### 960.gs
+### 960.gs
 
   The 960.gs website provides a style sheet, once linked to your HTML, you can provide the appropriate classes to your HTML code and it will create multiple column layouts. 960.gs also provides templates you can download to help design your page using a 12 column grid, or a variation using 16 columns.  
 
   Grid-based framework resources:
-  [960.gs](www.960.gs)
-  [blueprintcss.org](www.blueprintcss.org)
+  [960.gs](www.960.gs)  
+  [blueprintcss.org](www.blueprintcss.org)  
   [lessframework.com](www.lessframework.com)
 
-  ### Adding multiple CSS files in one page
+### Adding multiple CSS files in one page
 
   Two ways:
     1. Your HTML page can link to one style sheet and that one style sheet can use the @import rule to import other style sheets. @ import url("tables.css")  
-    2. In the HTML you can use a seperate <\link> element for each style sheet.
+    2. In the HTML you can use a seperate \<link> element for each style sheet.
 
 [Home](README.md)|[Back to Top](class-08.md)
 
