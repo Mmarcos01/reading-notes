@@ -32,7 +32,7 @@ Advantages of using a grid:
 
   **Grid-based framework resources:**  
   [960.gs](https://www.960.gs)  
-  [blueprintcss.org](https://blueprintcss.org)  
+  [blueprintcss.org](https://blueprintcss.dev)  
   [lessframework.com](https://lessframework.com)
 
 ### Adding multiple CSS files in one page
