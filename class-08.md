@@ -31,9 +31,9 @@ Advantages of using a grid:
   The 960.gs website provides a style sheet, once linked to your HTML, you can provide the appropriate classes to your HTML code and it will create multiple column layouts. 960.gs also provides templates you can download to help design your page using a 12 column grid, or a variation using 16 columns.  
 
   **Grid-based framework resources:**  
-  [960.gs](www.960.gs)  
-  [blueprintcss.org](www.blueprintcss.org)  
-  [lessframework.com](www.lessframework.com)
+  [960.gs](https://www.960.gs)  
+  [blueprintcss.org](https://www.blueprintcss.org)  
+  [lessframework.com](https:/www.lessframework.com)
 
 ### Adding multiple CSS files in one page
 
