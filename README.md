@@ -47,7 +47,8 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 - [HTML: Tables, Javascript: Constructors](class-07.md)
 
-- class 8
+- [CSS: Layout and Grids](class-08.md)
+
 - class 9
 - class 10
 - class 11
