@@ -49,7 +49,7 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 - [CSS: Layout and Grids](class-08.md)
 
-- class 9
+- [HTML: Forms, Lists, Tables and Javascript: Events](class-09.md)
 - class 10
 - class 11
 - class 12
