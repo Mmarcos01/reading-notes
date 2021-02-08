@@ -54,4 +54,41 @@ for - attribute states which form control the label belongs to
 
 ## Lists, Tables, and Forms
 
+### Lists
+list-style-type - indicates type of bullet you want in your list
+list-style-image - allows image to be used as bullet point
+list-style-position - indicates if marker should be inside or outside the box containing the main point
+list-style - allows you to express the markers' style, image and position properties in any order  
+
+### Tables
+empty-cells - you can show, hide or inherit borders on empty cells
+border-spacing - allows control over distance between adjacent cells
+border-collapse - borders are collapsed into a single border where possible
+
+### Forms
+People don't generally enjoy filling out forms, utilize CSS and style forms to make them more attractive to the user.  
+
+Commom cursor styles: auto, crosshair, default, pointer, move, text, wait, help, url("cursor.gif);  
+
+### Web Developer Toolbar
+ [www.chrispederick.com](https://www.chrispederick.com/work/web-developer)  
+
+ The Web Developer Toolbar is a helpful extension for the browser that provides tools to show the CSS styles being applied to an element when you hover over it, along with structure of HTML.
+
+## Events
+
+Events occur when the user makes an interaction, such as click, tap, hover or swipe, type or resize a window. When an event occurs or fires, it can trigger a particular function; reacting to the event. Events fire and trigger Scripts.  
+
+List of event types (pg 246)  
+
+Event handling - the steps involved in getting user interations to trigger JavaScript code
+  1. Select the element node(s) you want the script to respond to
+  2. Indicate which event on the selected node(s) will trigger the response (called binding)
+  3. State the code you want to run when the event occurs
+
+### Three ways to bind an event to an element
+
+
+
+
 [Home](README.md)|[Back to Top](class-09.md)
