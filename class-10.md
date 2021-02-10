@@ -47,12 +47,12 @@ You ocan pause the execution of a script on any line using breakpoints. Then you
 
 If you know your code may fail, use try, catch, finally:  
 
-try {
-  // try to execute this code
-} catch (exception) {
-  // if there is an exception, run this code
-} finally {
-  // this always gets executed
+try {  
+  // try to execute this code  
+} catch (exception) {  
+  // if there is an exception, run this code  
+} finally {  
+  // this always gets executed  
 }  
 
 ### Throwing Errors
