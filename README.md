@@ -50,7 +50,8 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 - [CSS: Layout and Grids](class-08.md)
 
 - [HTML: Forms, Lists, Tables and Javascript: Events](class-09.md)
-- class 10
+
+- [Error Handling and Debugging](class-10.md)
 - class 11
 - class 12
 - class 13

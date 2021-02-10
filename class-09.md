@@ -86,9 +86,11 @@ Event handling - the steps involved in getting user interations to trigger JavaS
   2. Indicate which event on the selected node(s) will trigger the response (called binding)
   3. State the code you want to run when the event occurs
 
-### Three ways to bind an event to an element
+### Three ways to bind an event to an element (three types of event handlers)
 
-
+  1. HTML event handlers - this is bad practice but may be seen in older code, it is better to seperate the JavaScript from the HTML.
+  2. Traditional DOM event handlers - limited, can only attach a single function to any event.
+  3. DOM level 2 event listeners - favored way of handling events, allow one event to trigger multiple functions.
 
 
 [Home](README.md)|[Back to Top](class-09.md)
