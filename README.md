@@ -52,7 +52,8 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 - [HTML: Forms, Lists, Tables and Javascript: Events](class-09.md)
 
 - [Error Handling and Debugging](class-10.md)
-- class 11
+
+- [HTML: Images and Practical Info](class-11.md)
 - class 12
 - class 13
 - class 14
