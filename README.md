@@ -54,7 +54,9 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 - [Error Handling and Debugging](class-10.md)
 
 - [HTML: Images and Practical Info](class-11.md)
-- class 12
+
+- [Chart.js and Canvas](class-12.md)
+
 - class 13
 - class 14
 - class 15
