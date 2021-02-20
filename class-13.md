@@ -1,6 +1,6 @@
 [Home](README.md)
 
-## Local Storage :
+## Local Storage :  
 
 [Local Storage](http://diveinto.html5doctor.com/storage.html)
 
@@ -18,21 +18,21 @@ From your JavaScript code, you access HTML5 storage through the localStorage obj
 
 ### Check for HTML5 Storage:
 
-function supports_html5_storage() {
-  try {
-    return 'localStorage' in window && window['localStorage'] !== null;
-  } catch (e) {
-    return false;
-  }
+function supports_html5_storage() {  
+  try {  
+    return 'localStorage' in window && window['localStorage'] !== null;  
+  } catch (e) {  
+    return false;  
+  }  
 }  
 
 You can also use Modernizr to detect support for HTML5 Storage:  
 
-if (Modernizr.localstorage) {
-  // window.localStorage is available!
-} else {
-  // no native support for HTML5 storage :(
-  // maybe try dojox.storage or a third-party solution
-}
+if (Modernizr.localstorage) {  
+  // window.localStorage is available!  
+} else {  
+  // no native support for HTML5 storage  
+  // maybe try dojox.storage or a third-party solution  
+}  
 
 [Home](README.md)
