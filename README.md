@@ -57,7 +57,8 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 - [Chart.js and Canvas](class-12.md)
 
-- class 13
+- [Local Storage](class-13.md)
+
 - class 14
 - class 15
 
