@@ -58,10 +58,10 @@ Transitions allow alteration of the appearance and behavior of an element whenev
 Animations within CSS3 allow the appearance and behavior of an element to be altered in multiple keyframes. Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes.
 
 
-[Simple CSS Transitions](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
-[Animated Buttons](https://codepen.io/retyui/pen/ByoaXV)
-[CSS Animations Keyframes](https://codepen.io/akshaychauhan/pen/oAfae)
-[404](https://codepen.io/kieranfivestars/pen/MYdQxX)
-[Bounce](https://codepen.io/dp_lewis/pen/gCfBv)
+[Simple CSS Transitions](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)  
+[Animated Buttons](https://codepen.io/retyui/pen/ByoaXV)  
+[CSS Animations Keyframes](https://codepen.io/akshaychauhan/pen/oAfae)  
+[404](https://codepen.io/kieranfivestars/pen/MYdQxX)  
+[Bounce](https://codepen.io/dp_lewis/pen/gCfBv)  
 
 [Home](README.md)|[Back to Top](class-14.md)
