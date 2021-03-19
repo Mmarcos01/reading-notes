@@ -7,7 +7,7 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 [Visit My GitHub](https://github.com/Mmarcos01?tab=repositories) or see what I learned about:
 
-## Code 102 Reading Notes:
+## Code 102 - Intro to Software Development
 
 - [Growth Mindset](growthmindset.md)
 
@@ -31,7 +31,7 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 - [Computer Architecture and Logic](computers.md)
 
-## Code 201 Reading Notes:
+## Code 201 - Foundations of Software Development
 
 - [HTML and Javascript Review](class-01.md)
 
@@ -61,5 +61,6 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 - [CSS3](class-14.md)
 
-- class 15
+## Code 301 - Intermediate Software Development
 
+## Code 401 - Advanced Software Development
