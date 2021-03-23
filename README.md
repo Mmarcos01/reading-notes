@@ -63,8 +63,10 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 ## Code 301 - Intermediate Software Development
 
+- [ES6 Classes](301-01.md)
+
 - [React](301-00.md)
 
-- [ES6 Classes](301-01.md)
+- [React Day 2](301-02.md)
 
 ## Code 401 - Advanced Software Development
