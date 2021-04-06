@@ -75,4 +75,6 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 - [React Day 5](301-05.md)
 
+- [Node.js](301-06.md)
+
 ## Code 401 - Advanced Software Development
