@@ -89,4 +89,6 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 - [SQL vs NoSQL, mongoose](301-12.md)
 
+- [CRUD](301-13.md)
+
 ## Code 401 - Advanced Software Development
