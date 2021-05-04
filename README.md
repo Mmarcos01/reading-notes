@@ -91,4 +91,6 @@ In this webpage, I'm utilizing a lightweight markup language called Markdown to 
 
 - [CRUD](301-13.md)
 
+- [Diversity in Tech](301-14.md)
+
 ## Code 401 - Advanced Software Development
